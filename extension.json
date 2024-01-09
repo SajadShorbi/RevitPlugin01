@@ -1,0 +1,14 @@
+{
+    "builtin": "False",
+    "default_enabled": "True",
+    "type": "extension",
+    "rocket_mode_compatible": "False",
+    "name": "SS.Test",
+    "description": "Extensions for PyRevit for test 01",
+    "author": "Sajad Shorbi",
+    "author_profile": "https://github.com/SajadShorbi",
+    "url": "https://github.com/SajadShorbi/RevitPlugin01.git",
+    "website": "https://github.com/SajadShorbi/RevitPlugin01",
+    "image": "",
+    "dependencies": []
+}
